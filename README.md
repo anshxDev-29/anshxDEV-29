@@ -8,7 +8,7 @@
   Replace all placeholder values with your own information.
   ======================================================== -->
 
-# Hi there, I'm Alex Chen! 👋🚀
+# Hi there, I'm Ansh Sharma! 👋🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%7C+React+Specialist;Open+Source+Contributor;UI%2FUX+Enthusiast;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -34,9 +34,8 @@
 - 🔭 Currently building **scalable UI architectures** with React 18 & Next.js 14
 - 🌱 Deep-diving into **Web Performance, Core Web Vitals, and Edge Computing**
 - 💡 Passionate about **Developer Experience (DX)**, design systems, and open source
-- 🎯 2024 Goal: Contribute to **50+ open source projects** and ship my SaaS product
+- 🎯 2026-27 Goal: Contribute to **50+ open source projects** and ship my SaaS product
 - ☕ Fuel: **Specialty coffee** and lo-fi beats
-- 📫 Reach me: **alex@yourportfolio.dev**
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
@@ -49,16 +48,12 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -91,13 +86,6 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Stars |
-|---------|-------------|-------|-------|
-| [⚡ UIForge](https://github.com/your-username/uiforge) | Open-source React component library with 50+ accessible components | React, TypeScript, Storybook | ⭐ 1.2k |
-| [🔗 LinkDrop](https://github.com/your-username/linkdrop) | Beautiful bookmark manager with AI-powered categorization | Next.js, OpenAI, Prisma | ⭐ 847 |
-| [🎨 ThemeStudio](https://github.com/your-username/themestudio) | Visual CSS variable editor for design systems | Vue, Vite, IndexedDB | ⭐ 534 |
-
----
 
 ## ⏰ Wakatime Coding Activity (Last 30 Days)
 
@@ -108,16 +96,6 @@ CSS/SCSS     ████░░░░░░░░░░░░░░░░░░�
 JSON         ██░░░░░░░░░░░░░░░░░░░░░░░    9.41 %
 Markdown     █░░░░░░░░░░░░░░░░░░░░░░░░    5.35 %
 ```
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/your-username">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee button" />
-  </a>
-</p>
 
 ---
 
