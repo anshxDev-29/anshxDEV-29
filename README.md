@@ -1,9 +1,3 @@
-
-  🚀 GitHub Profile README — The Modern Frontend Engineer
-  Copy this file into your [username]/[username] repository!
-  Replace all placeholder values with your own information.
-  ======================================================== -->
-
 # Hi there, I'm Ansh Sharma! 👋🚀
 
 <p align="center">
